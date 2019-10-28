@@ -2,9 +2,3 @@ C:\Users\Konstantinos\Desktop\beeftechee\beeftechee\beeftechee.Entities\bin\Debu
 C:\Users\Konstantinos\Desktop\beeftechee\beeftechee\beeftechee.Entities\bin\Debug\beeftechee.Entities.pdb
 C:\Users\Konstantinos\Desktop\beeftechee\beeftechee\beeftechee.Entities\obj\Debug\beeftechee.Entities.dll
 C:\Users\Konstantinos\Desktop\beeftechee\beeftechee\beeftechee.Entities\obj\Debug\beeftechee.Entities.pdb
-C:\Users\Konstantinos\Desktop\beeftechee\beeftechee\beeftechee.Entities\obj\Debug\beeftechee.Entities.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\BurgerShop-master\beeftechee\beeftechee.Entities\bin\Debug\beeftechee.Entities.dll
-C:\Users\Admin\Desktop\BurgerShop-master\beeftechee\beeftechee.Entities\bin\Debug\beeftechee.Entities.pdb
-C:\Users\Admin\Desktop\BurgerShop-master\beeftechee\beeftechee.Entities\obj\Debug\beeftechee.Entities.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\BurgerShop-master\beeftechee\beeftechee.Entities\obj\Debug\beeftechee.Entities.dll
-C:\Users\Admin\Desktop\BurgerShop-master\beeftechee\beeftechee.Entities\obj\Debug\beeftechee.Entities.pdb
