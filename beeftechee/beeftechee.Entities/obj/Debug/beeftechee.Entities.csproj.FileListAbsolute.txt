@@ -1,5 +1,0 @@
-C:\Users\Admin\Desktop\prwto\beeftechee\beeftechee.Entities\bin\Debug\beeftechee.Entities.dll
-C:\Users\Admin\Desktop\prwto\beeftechee\beeftechee.Entities\bin\Debug\beeftechee.Entities.pdb
-C:\Users\Admin\Desktop\prwto\beeftechee\beeftechee.Entities\obj\Debug\beeftechee.Entities.csprojAssemblyReference.cache
-C:\Users\Admin\Desktop\prwto\beeftechee\beeftechee.Entities\obj\Debug\beeftechee.Entities.dll
-C:\Users\Admin\Desktop\prwto\beeftechee\beeftechee.Entities\obj\Debug\beeftechee.Entities.pdb
